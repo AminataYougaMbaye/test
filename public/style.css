@@ -1,0 +1,8 @@
+body{
+    background-color: white;
+    padding: 0px 0px 0px 0px;
+}
+.tableau tr td th{
+    display: flex;
+    color: aqua;
+}
